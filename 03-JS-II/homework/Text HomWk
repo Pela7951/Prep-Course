@@ -1,0 +1,8 @@
+//
+//Descirpcion de conceptos:
+// FOR:  es un bucle de codigo sencillo que permite evaluar una expresion repetidamente hasta que se detiene.
+//
+// OPERADORES COMPRATIVOS, que comparan 2 o mas expresiones y devuelven una respuesta boleana
+// && : sirve para unir 2 expresione, Es como la palabra "Y", "AND" , ejemp. ((perro === "perro") && (1+1 === "2")) // true
+// || : sirve para unir 2 expresiones, Es como la palabra "O", "OR" , ejmp.  ((2>1) || ( "perro" == perro ) // true
+// ! : Sirve para negar o mencionar lo cantario de una expresio o un valor, es como la palabra "NO", "NOT" , ejmp. (2+2) !== 4 // false
