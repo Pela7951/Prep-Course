@@ -1,0 +1,4 @@
+// Variable: es espacio de memoria al cual se le asigna un valor del tipo numerico, strig, buleano.
+// Strings: Es un fragmento de caracteres encerrados con cmillas.
+// Funciones (argumentos , return): Es una fraccion de codigo, el cual se lo puede llamar varias veces para que devuelva una accion o respuesta.
+// Declaraciones if: Es una sentencia que sirve de control de flujo o de comparacion, recibiendo una respuesta buleana, si es verdedero hace una cosa y si es falso otra.  
